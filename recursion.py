@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-assingment14 - recursion.py
+assignment14 - recursion.py
 Created on Thu Aug 22 10:09:51 2019
 @author: SPSjroseboom
 """
